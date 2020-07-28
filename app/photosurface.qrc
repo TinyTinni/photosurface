@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>photosurface.qml</file>
+        <file>resources/folder.png</file>
+        <file>resources/burger_menu.png</file>
+    </qresource>
+</RCC>
